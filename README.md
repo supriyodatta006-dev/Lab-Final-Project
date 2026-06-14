@@ -1,4 +1,5 @@
-# 🕐 Time Loop Escape v2.0
+# 🕐 Time Loop Escape 
+This project is made by me as my semester final project
 
 > *You wake up. Again. The clock resets. The rooms shift. But this time — you remember.*
 
